@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "react-native-facebook-clone",
+    "slug": "react-native-facebook-clone",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "react-native-facebook-clone"
+}
